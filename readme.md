@@ -14,3 +14,6 @@ eliminamos ingredientes por que vamos a comprar el panque.
 
 ya quiero llorar :( x2
 
+# CASO DE MODIFICACION 
+
+haber que pasa
