@@ -1,3 +1,10 @@
-ignorame
+#para ignorar todos uso * y con ! niego exclucion para lograr incluirlo
+
+*
+! readme.md
+
+
+
+
 
 
